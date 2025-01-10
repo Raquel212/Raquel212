@@ -1,4 +1,33 @@
-## Oi eu sou a Raquel Martins
+
+## 👋 Oi! Eu sou a Raquel Martins
+🎓 Desenvolvedora e estudante apaixonada por tecnologia.
+🌱 Atualmente, estou explorando novas ferramentas e tecnologias para me tornar uma desenvolvedora cada vez mais completa.
+💻 Amo criar soluções que impactam positivamente o mundo, seja desenvolvendo aplicações ou aprendendo algo novo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div> 
   <a href="https://www.instagram.com/raquelcristina706/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
