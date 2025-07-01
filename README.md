@@ -1,10 +1,8 @@
 
 ## 👋 Oi! Eu sou Raquel Martins
-  🎓 Desenvolvedora e estudante apaixonada por tecnologia.
-  
-  🌱 Atualmente, estou explorando novas ferramentas e tecnologias para me tornar uma desenvolvedora cada vez mais completa.
-  
-  💻 Amo criar soluções que impactam positivamente o mundo, seja desenvolvendo aplicações ou aprendendo algo novo.
+  🎓 Desenvolvedora focada em aprendizado contínuo e desenvolvimento de soluções práticas.
+  🌱 Busco novas tecnologias para aprimorar habilidades e entregar resultados reais.
+  💻 Gosto de criar aplicações que façam a diferença no dia a dia das pessoas.
 
 
 
@@ -22,6 +20,30 @@
   <img align="center" alt="Raquel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
+### 🚀 Meus Projetos em Destaque
+
+<table align="center">
+<tr align="center">
+<td>
+<a href="https://viva-nutri.vercel.app">
+<img src="./assets/Logo.png" width="300px" alt="VivaNutri"/>
+<br />
+<sub><b>VivaNutri</b></sub>
+</a>
+<br />
+<p>Plataforma de apoio nutricional com registro de refeições, avaliações e acompanhamento de progresso. Feita com React, Node.js e MySQL.</p>
+</td>
+<td>
+<a href="https://medi-care-front-end.vercel.app">
+<img src="./assets/MediCareLogo.png" width="300px" alt="MediCare"/>
+<br />
+<sub><b>MediCare</b></sub>
+</a>
+<br />
+<p>Sistema de comunicação entre pacientes e profissionais da saúde. Tecnologias usadas: React, TypeScript e Electron.</p>
+</td>
+</tr>
+</table>
 
 ##  📈 Minhas Estatísticas:
 <div align="center"> <a href="https://github.com/Raquel212"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raquel212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raquel212&layout=compact&langs_count=7&theme=tokyonight"/> </div>
