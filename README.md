@@ -1,8 +1,10 @@
 
 ## 👋 Oi! Eu sou Raquel Martins
-  🎓 Desenvolvedora focada em aprendizado contínuo e desenvolvimento de soluções práticas.
-  🌱 Busco novas tecnologias para aprimorar habilidades e entregar resultados reais.
-  💻 Gosto de criar aplicações que façam a diferença no dia a dia das pessoas.
+🎓  Desenvolvedora dedicada a aprender e resolver problemas reais com soluções práticas.
+
+🌱 Busco novas tecnologias para aprimorar habilidades e entregar resultados reais.
+
+💻 Gosto de criar aplicações que façam a diferença no dia a dia das pessoas.
 
 
 
@@ -20,18 +22,19 @@
   <img align="center" alt="Raquel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-### 🚀 Meus Projetos em Destaque
+
+## ⭐ Meus Projetos em Destaque
 
 <table align="center">
 <tr align="center">
 <td>
 <a href="https://viva-nutri.vercel.app">
-<img src="./assets/Logo.png" width="300px" alt="VivaNutri"/>
+<img src="./assets/Logo.png" width="250px" height="130px" alt="VivaNutri"/>
 <br />
 <sub><b>VivaNutri</b></sub>
 </a>
 <br />
-<p>Plataforma de apoio nutricional com registro de refeições, avaliações e acompanhamento de progresso. Feita com React, Node.js e MySQL.</p>
+<p>Plataforma de apoio nutricional com registro de refeições, avaliações e acompanhamento de progresso. Feita com React.</p>
 </td>
 <td>
 <a href="https://medi-care-front-end.vercel.app">
@@ -40,7 +43,7 @@
 <sub><b>MediCare</b></sub>
 </a>
 <br />
-<p>Sistema de comunicação entre pacientes e profissionais da saúde. Tecnologias usadas: React, TypeScript e Electron.</p>
+<p>Controle de Estoque de Medicamento. Tecnologias usadas: React, C#, PostgreSQL</p>
 </td>
 </tr>
 </table>
