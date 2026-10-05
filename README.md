@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou Raquel Martins
 <div align="justify">
-  Sou formada em **Ciência da Computação** e desenvolvedora com foco em **Front-end e Full Stack**. Gosto de transformar ideias em soluções funcionais, com interfaces intuitivas e atenção à experiência do usuário.
+
+  Sou formada em **Ciência da Computação** e desenvolvedora com foco em **Front-end**. Gosto de transformar ideias em soluções funcionais, com interfaces intuitivas e atenção à experiência do usuário.
   
   Tenho experiência com tecnologias como **React, JavaScript, TypeScript, Java, C# e Python**, além de interesse em **Inteligência Artificial, Engenharia de Software e UI/UX**.
   
